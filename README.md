@@ -1,5 +1,5 @@
 # simonsAlgorithm
-This is an implementation of Simon's  Quantum Algorithm in Qiskit from the ground u
+This is an implementation of Simon's  Quantum Algorithm in Qiskit from the ground up
 
                                                             ┌───┐ ░                      ░        ░ ┌───┐ ░ ┌─┐   
                                                        q_0: ┤ H ├─░───■────■─────────────░────────░─┤ H ├─░─┤M├───
